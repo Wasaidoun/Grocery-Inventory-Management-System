@@ -1,0 +1,7 @@
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.AssemblyReference.cache
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Waseem\source\repos\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
